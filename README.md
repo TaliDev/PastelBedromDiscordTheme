@@ -1,0 +1,2 @@
+# PastelBedromDiscordTheme
+Better Discord theme
